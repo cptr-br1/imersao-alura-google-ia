@@ -1,0 +1,30 @@
+[
+{
+    "nome": "Documento Arquivístico",
+    "descricao": "O Documento arquivístico é toda informação registrada, em qualquer formato ou suporte, produzida ou recebida por uma pessoa física ou jurídica, no decorrer de suas atividades, que possua valor para a mesma.",
+    "link": "https://sites.usp.br/arquivogeral/wp-content/uploads/sites/39/2015/01/rosely.pdf"
+},
+
+    {
+        "nome": "Busca Google",
+        "descricao": "Segue a busca realizada no Google",
+        "link": "https://www.google.com/search?q=o%27que+%C3%A9+um+documento+arquivistico"
+},
+
+{
+    "nome": "Documento de arquivo – Wikipédia",
+    "descricao": "A Wikipédia pode ser uma boa fonte de informação inicial e generalista sobre o que é um documento de arquivo.",
+    "link": "https://pt.wikipedia.org/wiki/Documento_de_arquivo"
+},
+{
+    "nome": "Dicionário Brasileiro de Terminologia Arquivística",
+    "descricao": "O Dicionário Brasileiro de Terminologia Arquivística (DBTA) é uma obra de referência do Arquivo Nacional que define os termos técnicos da área.",
+    "link": "https://www.gov.br/arquivonacional/pt-br/centrais-de-conteudo/publicacoes/dicionario-brasileiro-de-terminologia-arquivistica-2020"
+},
+{
+    "nome": "CONARQ - Conselho Nacional de Arquivos",
+    "descricao": "O CONARQ é o órgão central do Sistema Nacional de Arquivos (SINAR), responsável por definir a política nacional de arquivos públicos e privados.",
+    "link": "https://www.gov.br/conarq/pt-br"
+}
+
+]
